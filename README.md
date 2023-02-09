@@ -20,7 +20,8 @@
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
           
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />        
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           
           
