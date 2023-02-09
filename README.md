@@ -5,3 +5,5 @@
 
 
 <a href="https://red-cat.hu"><img src="https://red-cat.hu/img/logo.webp" alt=""></a>
+
+### 🤖 Languages and Tools
